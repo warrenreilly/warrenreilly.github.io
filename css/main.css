@@ -145,11 +145,11 @@ body {
   min-height: 100%;
 }
 
-body#bg-img {
+/* body#bg-img {
   background: url(../img/myVideo.mov);
   background-attachment: fixed;
   background-size: cover;
-}
+} */
 
 body#bg-img:after {
   content: '';
