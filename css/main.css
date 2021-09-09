@@ -137,7 +137,7 @@
   line-height: 1.5;
 } */
 
-.body .bg-img {
+.bg-img {
   background: url(../img/myVideo.mp4);
   background-attachment: fixed;
   background-size: cover;
