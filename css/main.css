@@ -129,6 +129,17 @@
 }
 
 body {
+  background-image: url(../img/myVideo.mp4);
+  background-attachment: fixed;
+  background-size: cover;
+/*   color: #fff; */
+  height: 100%;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+/*   line-height: 1.5; */
+}
+
+/* body {
   background: url(../img/myVideo.mp4);
   background-attachment: fixed;
   background-size: cover;
@@ -137,7 +148,7 @@ body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
-}
+} */
 
 /* .background {
   background: url(../img/myVideo.mp4);
