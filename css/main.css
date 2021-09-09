@@ -143,7 +143,7 @@ body#bg-img {
   background-size: cover;
 }
 
-/* body#bg-img:after {
+body#bg-img:after {
   content: '';
   position: absolute;
   top: 0;
@@ -152,7 +152,7 @@ body#bg-img {
   height: 100%;
   z-index: -1;
   background: rgba(68, 68, 68, 0.9);
-} */
+}
 
 h1,
 h2,
