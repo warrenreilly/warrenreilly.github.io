@@ -145,7 +145,7 @@ body {
   min-height: 100%;
 } */
 
-body#myVideo {
+body#bg-img {
   background: url(../img/myVideo.mov);
   background-attachment: fixed;
   background-size: cover;
