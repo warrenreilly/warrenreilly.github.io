@@ -129,7 +129,9 @@
 }
 
 body {
-  background: #444;
+  background: url(../img/myVideo.mp4);
+  background-attachment: fixed;
+  background-size: cover;
   color: #fff;
   height: 100%;
   margin: 0;
@@ -137,11 +139,11 @@ body {
   line-height: 1.5;
 }
 
-.background {
+/* .background {
   background: url(../img/myVideo.mp4);
   background-attachment: fixed;
   background-size: cover;
-}
+} */
 
 /* body#bg-img:after {
   content: '';
