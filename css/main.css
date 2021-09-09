@@ -137,14 +137,21 @@ body {
   line-height: 1.5;
 }
 
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
 
-body#bg-img {
+/* body#bg-img {
   background: url(../img/myVideo.mov);
   background-attachment: fixed;
   background-size: cover;
-}
+} */
 
-body#bg-img:after {
+/* body#bg-img:after {
   content: '';
   position: absolute;
   top: 0;
@@ -153,7 +160,7 @@ body#bg-img:after {
   height: 100%;
   z-index: -1;
   background: rgba(68, 68, 68, 0.9);
-}
+} */
 
 h1,
 h2,
