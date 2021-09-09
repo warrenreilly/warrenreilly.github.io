@@ -139,7 +139,7 @@ body#bg-img {
   line-height: 1.5;
 }
 
-/* 
+
 body#bg-img:after {
   content: '';
   position: absolute;
@@ -149,7 +149,7 @@ body#bg-img:after {
   height: 100%;
   z-index: -1;
   background: rgba(68, 68, 68, 0.10);
-} */
+}
 
 h1,
 h2,
