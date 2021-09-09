@@ -146,8 +146,8 @@ body {
 
 }
 
-/* body#bg-img {
-  background: url(../img/myVideo.mov);
+body#bg-img {
+  background: url(../img/myVideo.mp4);
   background-attachment: fixed;
   background-size: cover;
 }
@@ -161,7 +161,7 @@ body#bg-img:after {
   height: 100%;
   z-index: -1;
   background: rgba(68, 68, 68, 0.5);
-} */
+}
 
 h1,
 h2,
