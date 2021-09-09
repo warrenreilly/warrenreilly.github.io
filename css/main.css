@@ -150,13 +150,9 @@ body {
   line-height: 1.5;
 } */
 
-/* .background {
-  background: url(../img/myVideo.mp4);
-  background-attachment: fixed;
-  background-size: cover;
-} */
 
-/* body#bg-img:after {
+
+body#bg-img:after {
   content: '';
   position: absolute;
   top: 0;
@@ -166,7 +162,7 @@ body {
   z-index: -1;
   background: rgba(68, 68, 68, 0.5);
 }
- */
+
 h1,
 h2,
 h3 {
