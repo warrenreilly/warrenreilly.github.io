@@ -137,13 +137,13 @@ body {
   line-height: 1.5;
 }
 
-/* #myVideo {
+#myVideo {
   position: fixed;
   right: 0;
   bottom: 0;
   min-width: 100%; 
   min-height: 100%;
-} */
+}
 
 body#bg-img {
   background: url(../img/myVideo.mov);
