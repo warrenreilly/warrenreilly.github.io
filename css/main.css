@@ -104,7 +104,7 @@
 }
 
 .menu .nav-link:hover {
-  color: #fff;
+  color: #444;
   transform: scale(1.25)
 }
 
@@ -132,7 +132,7 @@ body#bg-img {
   background-image: url(../img/background.jpg);
   background-attachment: fixed;
   background-size: cover;
-  color: #fff;
+  color: #444;
   height: 100%;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
