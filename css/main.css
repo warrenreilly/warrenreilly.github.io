@@ -175,7 +175,7 @@ h3.sm-heading {
 }
 
 a {
-  color: #fff;
+  color: #444;
   text-decoration: none;
 
 }
@@ -290,7 +290,7 @@ main#home h1 {
 .boxes div:hover {
   padding: 0.5rem 1.5rem;
   background: rgb(255, 102, 0);
-  color: #000;
+/*   color: #000; */
 }
 
 .boxes div:hover span {
