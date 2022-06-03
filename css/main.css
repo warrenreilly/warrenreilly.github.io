@@ -128,6 +128,12 @@
   box-sizing: border-box;
 }
 
+.currentwork-bg {
+  background: url(../img/matrix.gif);
+  background-attachment: fixed;
+  background-size: cover;
+} *
+
 
 body {
   background: #444;
@@ -157,11 +163,6 @@ body#bg-img:after {
 /*   background: rgba(68, 68, 68, 0.9); */
 
 
-/* .currentwork-bg {
-  background: url(../img/matrix.gif);
-  background-attachment: fixed;
-  background-size: cover;
-} */
 
 h1,
 h2,
