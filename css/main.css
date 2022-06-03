@@ -128,12 +128,6 @@
   box-sizing: border-box;
 }
 
-.currentwork-bg {
-  background: url(../img/matrix.gif);
-  background-attachment: fixed;
-  background-size: cover;
-} *
-
 
 body {
   background: #444;
