@@ -142,7 +142,6 @@ body#bg-img {
   background: url(../img/newbg.gif);
   background-attachment: fixed;
   background-size: cover;
-  opacity: 70%;
 }
 
 body#bg-img:after {
