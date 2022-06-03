@@ -153,15 +153,7 @@ body#bg-img:after {
   height: 100%;
   z-index: -1;
   background: rgba(68, 68, 68, 0.9);
-  
-  body#currentwork-bg {
-  background: url(../img/newbg.gif);
-  background-attachment: fixed;
-  background-size: cover;
-  opacity; 100%
-}
-
-
+ 
 h1,
 h2,
 h3 {
