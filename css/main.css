@@ -128,6 +128,7 @@
   box-sizing: border-box;
 }
 
+
 body {
   background: #444;
   color: #fff;
@@ -152,6 +153,12 @@ body#bg-img:after {
   height: 100%;
   z-index: -1;
   background: rgba(68, 68, 68, 0.9);
+}
+
+.currentwork-bg {
+  background: url(../img/newbg.gif);
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 h1,
