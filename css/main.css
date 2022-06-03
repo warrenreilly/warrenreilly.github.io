@@ -129,13 +129,18 @@
 }
 
 body {
+  background: #444;
+  color: #fff;
+  height: 100%;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+}
+
+body#bg-img {
   background: url(../img/newbg.gif);
   background-attachment: fixed;
   background-size: cover;
-}
-
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.5;
 }
 
 body#bg-img:after {
@@ -148,7 +153,6 @@ body#bg-img:after {
   z-index: -1;
   background: rgba(68, 68, 68, 0.9);
 }
-
 
 
 h1,
