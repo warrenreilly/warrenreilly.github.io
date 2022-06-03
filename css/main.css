@@ -141,7 +141,6 @@ body#bg-img {
   background: url(../img/newbg.gif);
   background-attachment: fixed;
   background-size: cover;
-  opacity; 100%
 }
 
 body#bg-img:after {
@@ -152,7 +151,8 @@ body#bg-img:after {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background: rgba(68, 68, 68, 0.9);
+  background: rgba(68, 68, 68, 0.9); 
+}
  
 h1,
 h2,
