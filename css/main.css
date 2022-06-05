@@ -415,5 +415,6 @@ main#home h1 {
   .projects {
     grid-template-columns: 1fr;
      align-items: center;
+     text-align: center;
   }
-}
+
