@@ -412,9 +412,14 @@ main#home h1 {
     font-size: 5rem;
   }
 
-  .projects {
+/*   .projects {
     grid-template-columns: 1fr;
      align-items: center;
      text-align: center;
+  } */
+  
+#id {
+  align-items: center;
+     text-align: center;
   }
-
+}
