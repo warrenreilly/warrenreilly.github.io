@@ -128,6 +128,10 @@
   box-sizing: border-box;
 }
 
+.currentwork-bg {
+background: url(../img/newbg.gif);
+}
+
 body {
   background: #444;
   color: #fff;
@@ -176,6 +180,8 @@ h3.sm-heading {
   padding: 0.2rem 1rem;
 
 }
+
+
 
 a {
   color: #fff;
