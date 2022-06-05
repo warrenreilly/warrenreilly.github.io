@@ -128,10 +128,6 @@
   box-sizing: border-box;
 }
 
-.currentwork-bg {
-background: url(../img/newbg.gif);
-}
-
 body {
   background: #444;
   color: #fff;
